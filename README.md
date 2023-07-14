@@ -1,3 +1,6 @@
+| Keep in mind this esolang is not fully complete, it's still in developement! ![](https://nukocities.neocities.org/nuko/act/cat4.gif)|
+| - |
+
 <img align="right" height="145" src=".meow/snø.svg">
 
 # nori.ni [<img src="https://nukocities.neocities.org/nuko/sets/cat325.gif">](https://nukocities.neocities.org/)
@@ -50,7 +53,7 @@ snø's arithmetic is NOS × TOS, meaning that it will duplicate the 2nd value on
 
 Here are some example programs! There are a lot of them (send help they spawn every single nanosecond I breathe)
 
-### 1-byte cat [<img src="https://nukocities.neocities.org/nuko/act/cat1.gif">](https://github.com/mkukiro/nori.ni/tree/develop#cat-program-)
+### 1-byte cat ![](https://nukocities.neocities.org/nuko/act/cat1.gif)
 
 ```sn
     @
