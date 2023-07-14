@@ -1,8 +1,8 @@
-<img align="right" height="145" src=".meow/nori.fi.svg">
+<img align="right" height="145" src=".meow/snø.svg">
 
 # nori.ni [<img src="https://nukocities.neocities.org/nuko/sets/cat325.gif">](https://nukocities.neocities.org/)
 
-snø is an esolang I've made for Tsruttle1's 2023 esojam!
+snø is an esolang I've made for Truttle1's 2023 esojam!
 
 It is a 2D, stack-based esolang which has some bugs, because the esojam's theme was "It's not a bug, it's a feature" 
 
