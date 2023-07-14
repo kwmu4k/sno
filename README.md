@@ -40,7 +40,7 @@ The IP's (`@`) default direction is bottom left
 | `+`     | Add last two values together, leaving only the result                              |
 | `-`     | Subtract last two values together, leaving only the result                         |
 | `*`     | Multiply last two values together, leaving only the result                         |
-| `|`     | Divide last two values together, leaving only the result                           |
+| `\|`     | Divide last two values together, leaving only the result                           |
 | `^`     | Raise last two values together, leaving only the result                            |
 | `%`     | Modulo last two values together, leaving only the result                           |
 | `~`     | NOR bitwise operator (you can make any bitwise operator with this!)                |
