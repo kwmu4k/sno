@@ -3,7 +3,7 @@
 
 <img align="right" height="145" src=".meow/snø.svg">
 
-# nori.ni [<img src="https://nukocities.neocities.org/nuko/sets/cat325.gif">](https://nukocities.neocities.org/)
+# snø [<img src="https://nukocities.neocities.org/nuko/sets/cat325.gif">](https://nukocities.neocities.org/)
 
 snø is an esolang I've made for Truttle1's 2023 esojam!
 
