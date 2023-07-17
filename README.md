@@ -4,7 +4,7 @@
 
 snø is an esolang I've made for Truttle1's 2023 esojam!
 
-It is a 2D, stack-based esolang which has some bugs, because the esojam's theme was "It's not a bug, it's a feature" 
+It is a 2D, stack-based esolang of which the IP can only go in diagonal directions
 
 To run `main.sn` just type `python snø.py`, if you want to run another file, use `python snø.py path/to/file.sn`
 
