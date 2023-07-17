@@ -95,6 +95,10 @@ Here are some example programs! There are a lot of them (send help they spawn ev
 .......
 ```
 
+### Unicode input
+
+Take the cat program and now put an unicode character such as 🍊, the output will be "ð"
+
 The IP somehow cannot find the `@` so it just gives up
 
 <p align="center"><img src="https://nukocities.neocities.org/nuko/sets/cat80.gif"></img></p>
