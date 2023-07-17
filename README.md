@@ -1,6 +1,3 @@
-| Keep in mind this esolang is not fully complete, it's still in developement! ![](https://nukocities.neocities.org/nuko/act/cat4.gif)|
-| - |
-
 <img align="right" height="145" src=".meow/snø.svg">
 
 # snø [<img src="https://nukocities.neocities.org/nuko/sets/cat325.gif">](https://nukocities.neocities.org/)
