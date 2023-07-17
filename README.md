@@ -57,22 +57,22 @@ Here are some example programs! There are a lot of them (send help they spawn ev
 
 ```sn
     @
-   \·
-  ··I··
- ····O··
-······&··
+   \.
+  ..I..
+ ....O..
+......&..
 ```
 
 ### Demonstration of `Y`
 
 ```sn
       @
-     \·
-    ··I··
-   ····Y··
-  ····1·0··
- ····O···O··
-····&·····&··
+     \.
+    ..I..
+   ....Y..
+  ....1.0..
+ ....O...O..
+....&.....&..
 ```
 
 ### Addition calculator
@@ -87,19 +87,17 @@ Here are some example programs! There are a lot of them (send help they spawn ev
 ··········&··
 ```
 
-## Bugs
+## Weird things
 
 ### This code doesn't run
 
 ```sn
-   ·
-  @@·
- II···
-·······
+   .
+  @@.
+ II...
+.......
 ```
 
 The IP somehow cannot find the `@` so it just gives up
-
-###
 
 <p align="center"><img src="https://nukocities.neocities.org/nuko/sets/cat80.gif"></img></p>
